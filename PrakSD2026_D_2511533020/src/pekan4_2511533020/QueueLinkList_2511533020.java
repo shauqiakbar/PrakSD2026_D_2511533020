@@ -8,7 +8,7 @@ public class QueueLinkList_2511533020 {
 		Queue<Integer> q_3020 = new LinkedList<>() ;
 		// tambah elemen {0, 1, 2, 3, 4, 5} ke antrian
 		
-		for (int i_3020 = 0; i_3020 < 6; i_3020++) {
+		for (int i_3020 = 0; i_3020 < 6; i_3020++) 
 			q_3020.add(i_3020);
 			//Menampilkan isi antrian.
 			System.out.println("Elemen antrian " + q_3020);
@@ -24,6 +24,6 @@ public class QueueLinkList_2511533020 {
 		}
 		
 
-	}
+	
 
 }
