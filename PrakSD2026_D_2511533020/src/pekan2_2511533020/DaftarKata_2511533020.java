@@ -33,7 +33,7 @@ public class DaftarKata_2511533020 {
 			}
 			/**
 			 * Melakukan iterasi dan mencetak setiap elemen dalam foramt: [index] nilai
-			 * Metode ini tidak mengembalikan nilai; hanya demonstrasi iterasi).
+			 * Metode ini tidak mengembalikan nilai; hanya demonstrasi iterasi).=
 			 */
 			
 			public void iterasiCetak_2511533020() {
