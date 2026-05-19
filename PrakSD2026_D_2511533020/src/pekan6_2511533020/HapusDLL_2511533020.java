@@ -84,7 +84,7 @@ public class HapusDLL_2511533020 {
 		
 		System.out.print("Menghapus Node Ke 2: ");
 		head_3020 = de1Pos(head_3020, 2);
-		
+	
 		printList(head_3020);
 		
 		
