@@ -22,7 +22,7 @@ public class GraphTraversal_2511533020 {
 		System.out.println();
 	}
 	
-	// DFS rekursif
+	// DFS rekursif	
 	public void dfs_2511533020(String start_3020) {
 		Set<String> visited_3020 = new HashSet<>();
 		System.out.println("Penelusuran DFS : ");
